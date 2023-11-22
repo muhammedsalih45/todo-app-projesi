@@ -52,16 +52,3 @@ search.addEventListener('keyup',()=>{
     // console.log(term);
     filterTodos(term);
 })
-
-
-
-
-
-
-
-
-
-
-
-// let x=3;
-// x=x+1//x+=1 
